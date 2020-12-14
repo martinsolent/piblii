@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>marty1</title>
+    <link href="https://github.com/martinsolent/piblii_1/feed.xml" rel="self" />
+    <link href="https://github.com/martinsolent/piblii_1" />
+    <updated>2020-12-13T21:53:27+00:00</updated>
+    <author>
+        <name>Martin Reid</name>
+    </author>
+    <id>https://github.com/martinsolent/piblii_1</id>
+
+    <entry>
+        <title>New Post</title>
+        <author>
+            <name>Martin Reid</name>
+        </author>
+        <link href="https://github.com/martinsolent/piblii_1/new-post.html"/>
+        <id>https://github.com/martinsolent/piblii_1/new-post.html</id>
+
+        <updated>2020-12-13T21:53:27+00:00</updated>
+            <summary>
+                <![CDATA[
+                    nfdjbhfkjbhfjbnfjbnfjbnfjbn vncdsmnvmwevnmdvndjvnjjvjbdjvbjbvjdbjvbdjvbd 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>nfdjbhfkjbhfjbnfjbnfjbnfjbn</p>
+<p>vncdsmnvmwevnmdvndjvnjjvjbdjvbjbvjdbjvbdjvbd</p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://github.com/martinsolent/piblii_1/media/posts/1/Screenshot-2020-10-21-at-08.53.04.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://github.com/martinsolent/piblii_1/media/posts/1/responsive/Screenshot-2020-10-21-at-08.53.04-xs.png 300w ,https://github.com/martinsolent/piblii_1/media/posts/1/responsive/Screenshot-2020-10-21-at-08.53.04-sm.png 480w ,https://github.com/martinsolent/piblii_1/media/posts/1/responsive/Screenshot-2020-10-21-at-08.53.04-md.png 768w ,https://github.com/martinsolent/piblii_1/media/posts/1/responsive/Screenshot-2020-10-21-at-08.53.04-lg.png 1024w ,https://github.com/martinsolent/piblii_1/media/posts/1/responsive/Screenshot-2020-10-21-at-08.53.04-xl.png 1360w ,https://github.com/martinsolent/piblii_1/media/posts/1/responsive/Screenshot-2020-10-21-at-08.53.04-2xl.png 1600w"  alt="" width="596" height="593"></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
