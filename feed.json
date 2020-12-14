@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "marty1",
     "description": "",
-    "home_page_url": "https://github.com/martinsolent/piblii_1",
-    "feed_url": "https://github.com/martinsolent/piblii_1/feed.json",
+    "home_page_url": "https://github.com/martinsolent/piblii",
+    "feed_url": "https://github.com/martinsolent/piblii/feed.json",
     "user_comment": "",
     "author": {
         "name": "Martin Reid"
     },
     "items": [
         {
-            "id": "https://github.com/martinsolent/piblii_1/new-post.html",
-            "url": "https://github.com/martinsolent/piblii_1/new-post.html",
+            "id": "https://github.com/martinsolent/piblii/new-post.html",
+            "url": "https://github.com/martinsolent/piblii/new-post.html",
             "title": "New Post",
             "summary": "nfdjbhfkjbhfjbnfjbnfjbnfjbn vncdsmnvmwevnmdvndjvnjjvjbdjvbjbvjdbjvbdjvbd ",
-            "content_html": "<p>nfdjbhfkjbhfjbnfjbnfjbnfjbn</p>\n<p>vncdsmnvmwevnmdvndjvnjjvjbdjvbjbvjdbjvbdjvbd</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://github.com/martinsolent/piblii_1/media/posts/1/Screenshot-2020-10-21-at-08.53.04.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://github.com/martinsolent/piblii_1/media/posts/1/responsive/Screenshot-2020-10-21-at-08.53.04-xs.png 300w ,https://github.com/martinsolent/piblii_1/media/posts/1/responsive/Screenshot-2020-10-21-at-08.53.04-sm.png 480w ,https://github.com/martinsolent/piblii_1/media/posts/1/responsive/Screenshot-2020-10-21-at-08.53.04-md.png 768w ,https://github.com/martinsolent/piblii_1/media/posts/1/responsive/Screenshot-2020-10-21-at-08.53.04-lg.png 1024w ,https://github.com/martinsolent/piblii_1/media/posts/1/responsive/Screenshot-2020-10-21-at-08.53.04-xl.png 1360w ,https://github.com/martinsolent/piblii_1/media/posts/1/responsive/Screenshot-2020-10-21-at-08.53.04-2xl.png 1600w\"  alt=\"\" width=\"596\" height=\"593\"></figure>\n<p> </p>",
+            "content_html": "<p>nfdjbhfkjbhfjbnfjbnfjbnfjbn</p>\n<p>vncdsmnvmwevnmdvndjvnjjvjbdjvbjbvjdbjvbdjvbd</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://github.com/martinsolent/piblii/media/posts/1/Screenshot-2020-10-21-at-08.53.04.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://github.com/martinsolent/piblii/media/posts/1/responsive/Screenshot-2020-10-21-at-08.53.04-xs.png 300w ,https://github.com/martinsolent/piblii/media/posts/1/responsive/Screenshot-2020-10-21-at-08.53.04-sm.png 480w ,https://github.com/martinsolent/piblii/media/posts/1/responsive/Screenshot-2020-10-21-at-08.53.04-md.png 768w ,https://github.com/martinsolent/piblii/media/posts/1/responsive/Screenshot-2020-10-21-at-08.53.04-lg.png 1024w ,https://github.com/martinsolent/piblii/media/posts/1/responsive/Screenshot-2020-10-21-at-08.53.04-xl.png 1360w ,https://github.com/martinsolent/piblii/media/posts/1/responsive/Screenshot-2020-10-21-at-08.53.04-2xl.png 1600w\"  alt=\"\" width=\"596\" height=\"593\"></figure>\n<p> </p>",
             "author": {
                 "name": "Martin Reid"
             },
